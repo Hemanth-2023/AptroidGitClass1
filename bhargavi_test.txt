@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 bhargavi bjkjyksdcss
 second line added
-thirdjdsfj
+thirdjdsfj\
+ugj
+=======
+bhargavi bjkjyksdcss 
+kldshhuuilkfd
+>>>>>>> 55ccee60c005d675d6f7c52cfc3bb8e81304963f
